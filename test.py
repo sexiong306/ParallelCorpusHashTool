@@ -5,4 +5,4 @@
 import os
 
 if __name__ == '__main__':
-    os.system('python -m drench')
+    os.system('python -m HashTool inputfile.txt outputfile.txt')

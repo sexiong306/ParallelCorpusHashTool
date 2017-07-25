@@ -1,2 +1,5 @@
 .idea/*
-HashTool/*.pyc
+*/*.pyc
+ParallelCorpusHashTool.egg-info/*
+build/*
+dist/*
